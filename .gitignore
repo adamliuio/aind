@@ -2,3 +2,5 @@
 **/.ipynb_checkpoints/
 **/*.hdf5
 **/term_2/6.08-aind2-cnn/cifar10-classification/try/
+pickles/
+**/*.zip
