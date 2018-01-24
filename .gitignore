@@ -1,8 +1,4 @@
 **/__pycache__
 **/.ipynb_checkpoints/
-**/term_2/P1-dog_project-Adam_liu/lfw/
-**/term_2/P1-dog_project-Adam_liu/dogImages/
-**/term_2/P1-dog_project-Adam_liu/DogVGG16Data.npz
-**/DogVGG16Data.npz
 **/*.hdf5
 **/term_2/6.08-aind2-cnn/cifar10-classification/try/
