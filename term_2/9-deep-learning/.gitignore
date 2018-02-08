@@ -1,12 +1,13 @@
 .DS_Store
 
 # Ignore downloaded datasets
+datasets/
 embeddings/data/
 embeddings/text8.zip
 face_generation/data/
-
+term_2/9-deep-learning/image-classification/cifar-10-python.tar.gz
 .ipynb_checkpoints/
-
+cifar-10-batches-py/
 
 *.pyc
 *.p
