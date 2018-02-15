@@ -14,4 +14,4 @@ cifar-10-batches-py/
 *.pkl 
 
 */.floyd*
-
+checkpoints/

@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
+test_dogs/
+
+**/*.hdf5
+P2-rnn-Adam_liu.zip
+RNN_project.html
+rnn-result-*.json

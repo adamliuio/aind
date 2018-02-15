@@ -1,0 +1,40 @@
+-------------------
+input chars:
+"is eyes she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin"
+predicted chars:
+"g to the rind of the manter. the from whe had been herried at the insters and a looked my from his p"
+-------------------
+input chars:
+"er, of dubious and questionable memory. i had seen little of holmes lately. my marriage had drifted "
+predicted chars:
+"to the stine of a little room, and what do your commaniant out of the withow a deew doing of the oth"
+-------------------
+input chars:
+"rticularly malignant boot slitting specimen of the london slavey. as to your practice, if a gentlema"
+predicted chars:
+"n to yourseluse she wos s ganetle and all a fing and a that his lap to the should. i have good dosin"
+-------------------
+input chars:
+" the door. then there was a loud and authoritative tap. come in! said holmes. a man entered who coul"
+predicted chars:
+"d served the tholo harrst i not incearid and it woother and long him with the lown s at the sindow o"
+-------------------
+input chars:
+" her landau when a cab came through the street. the driver looked twice at such a shabby fare, but i"
+predicted chars:
+" do not think a knew that he was a lady and said a deepured the consicaial poppiss charritio s clued"
+-------------------
+input chars:
+"forefinger upon the paper, but his eyes upon my companion. how, in the name of good fortune, did you"
+predicted chars:
+" that i wall so that the sapp ore of the windows all deary it was a difle of and forther and was a d"
+-------------------
+input chars:
+"erit. all the afternoon he sat in the stalls wrapped in the most perfect happiness, gently waving hi"
+predicted chars:
+"s excermence of the ondingather he should hearted to the brack that you have been sacked at the chai"
+-------------------
+input chars:
+"alising the full purport of his words, she gave a violent start and looked up, with fear and astonis"
+predicted chars:
+"all erstableary from the parirs which was thought. he and the paper was and the paper of the window "
